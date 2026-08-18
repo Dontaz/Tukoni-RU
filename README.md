@@ -57,11 +57,17 @@
 
 ## Пример перевода
 
+<div align="center">
+
+[![ex3](img/video_demonstraion.webp)](https://youtu.be/qyDNyh1ZNUI?si=G2YxHiNP-zi0oLl4)
+
 ![ex1](img/ex1.webp)
 
 ![ex2](img/ex2.webp)
 
 ![ex3](img/ex3.webp)
+
+</div>
 
 ## Дисклеймер
 
