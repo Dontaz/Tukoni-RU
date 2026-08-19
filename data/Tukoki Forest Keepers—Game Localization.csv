@@ -29,7 +29,8 @@ Play_LoadGame,Загрузить игру,Spiel laden,Charger la partie,Cargar p
 Play_Chapters,ГЛАВЫ,Kapitel,Chapitres,Capítulos,Capítulos,Capítulos,Capítulos,Capitoli,РОЗДІЛИ,ROZDZIAŁY,Kapitoly,Bölümler,Hoofdstukken,Kapitler,Kapitler,Kapitel,Jaksot,CAPITOLE,FEJEZETEK,ГЛАВИ,Chương,Bab,Mga Kabanata,บท,챕터,チャプター,章節,章节,
 Warn_Yes,Да,Ja,Oui,Sí,Sí,Sim,Sim,Sì,Так,Tak,Ano,Evet,Ja,Ja,Ja,Ja,Kyllä,Da,Igen,Да,Có,Ya,Oo,ใช่,예,はい,是,是,
 Warn_No,Нет,Nein,Non,No,No,Não,Não,No,Ні,Nie,Ne,Hayır,Nee,Nej,Nei,Nej,Ei,Nu,Nem,Не,Không,Tidak,Hindi,ไม่ใช่,아니요,いいえ,否,否,
-Warn_Progress,Ваш прогресс будет потерян. Вы уверены?,Dein Fortschritt geht verloren. Bist du sicher?,Votre progression sera perdue. Êtes-vous sûr·e ?,Tu progreso se perderá. ¿Estás seguro?,Tu progreso se perderá. ¿Estás seguro?,Seu progresso será perdido. Tem certeza?,O teu progresso será perdido. Tens a certeza?,I tuoi progressi andranno persi. Vuoi continuare?,Ваш прогрес буде втрачено. Ви впевнені?,Twój postęp zostanie utracony. Na pewno?,"Váš postup bude ztracen.
+Warn_Progress,"Ваш прогресс будет потерян.
+Вы уверены?",Dein Fortschritt geht verloren. Bist du sicher?,Votre progression sera perdue. Êtes-vous sûr·e ?,Tu progreso se perderá. ¿Estás seguro?,Tu progreso se perderá. ¿Estás seguro?,Seu progresso será perdido. Tem certeza?,O teu progresso será perdido. Tens a certeza?,I tuoi progressi andranno persi. Vuoi continuare?,Ваш прогрес буде втрачено. Ви впевнені?,Twój postęp zostanie utracony. Na pewno?,"Váš postup bude ztracen.
 Opravdu chcete pokračovat?",İlerlemeniz kaybolacak. Emin misiniz?,"Je voortgang gaat verloren.
 Weet je het zeker?","Din fremgang vil gå tabt.
 Er du sikker?","Fremgangen din vil gå tapt.
