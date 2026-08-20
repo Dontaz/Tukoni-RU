@@ -29,7 +29,7 @@
 2. Откройте файл «Tukoki Forest Keepers—Game Localization.csv»;
 3. В стоблце «Language-En» переводим весь текст, саму ячейку «Language-En» переводить не нужно (т.е. не нужно писать в этой ячейке «Язык-Ру»);
 4. Действие выше заменит английский текст в игре на ваш, можете перевести другой язык, не обязательно английский заменять;
-5. Текст готов и его можно сразу заменить в игре путём простого перемещения модифицированного файла Tukoki Forest Keepers—Game Localization.csv» в папку «Tukoni Forest Keepers / TukoniForestKeepers / Content / Localization / Custom».
+5. Текст готов и его можно сразу заменить в игре путём простого перемещения модифицированного файла «Tukoki Forest Keepers—Game Localization.csv» в папку «Tukoni Forest Keepers / TukoniForestKeepers / Content / Localization / Custom».
 
 ## Этап 2. Перевод логотипа игры
 
