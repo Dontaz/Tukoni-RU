@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![ex3](img/video_demonstraion.webp)](https://youtu.be/qyDNyh1ZNUI?si=G2YxHiNP-zi0oLl4)
+[![ex3](img/video_demonstration.webp)](https://youtu.be/qyDNyh1ZNUI?si=G2YxHiNP-zi0oLl4)
 
 ![ex1](img/ex1.webp)
 
